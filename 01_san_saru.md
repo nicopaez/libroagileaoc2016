@@ -27,7 +27,6 @@ Partiendo del supuesto que la demanda de entradas para el AOC iba a superar ampl
 ## Descripción
 
 ![San Saru.jpg](assets/1.1.png)
-
 **_Figura 1.1._** _San Saru en japonés_
 
 ### Metafora San Saru
