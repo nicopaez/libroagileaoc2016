@@ -1,4 +1,4 @@
-# Improvement Kata {#improvement-kata}
+# Improvement Kata
 
 Por Hiroshi Hiromoto, @hhiroshi## **Palabras clave** {#palabras-clave}
 

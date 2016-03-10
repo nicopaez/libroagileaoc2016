@@ -1,4 +1,4 @@
-# Revisión Triangular de Documentos {#revisi-n-triangular-de-documentos}
+# Revisión Triangular de Documentos
 
 Por Natalia Baeza, @Naty3Baeza y Virginia Brassesco, @virbrassesco## Palabras clave {#palabras-clave}
 

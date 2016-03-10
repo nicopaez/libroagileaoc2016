@@ -1,4 +1,4 @@
-# Introducción a Visual Management {#introducci-n-a-visual-management}
+# Introducción a Visual Management
 
 Por Soledad Pinter, @solepinter## Etiquetas {#etiquetas}
 

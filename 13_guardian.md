@@ -1,4 +1,4 @@
-# Guardián de un equipo con múltiples asignaciones. {#guardi-n-de-un-equipo-con-m-ltiples-asignaciones}
+# Guardián de un equipo con múltiples asignaciones
 
 Por Tomás Christie, @tommychristie## Palabras clave {#palabras-clave}
 
