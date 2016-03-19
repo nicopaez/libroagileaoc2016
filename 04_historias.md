@@ -32,7 +32,7 @@ Lo que se quiere hacer supera el tradicional guión de: "Como un [rol] yo deseo 
 
 ¿Realmente la funcionalidad que tiene una solución apela a un comportamiento? ¿No se trata únicamente de un proceso donde el código activa tareas y funciones? Cada funcionalidad debería responder a una hipótesis o la suma de un supuesto con una medición, más una alta dosis de empatía.
 
-Wendell (2013) describe la forma en la que trabaja en su organización donde implementan “algunos elementos de agilidad” y se ve una correlación con el Pensamiento de Diseño o Design Thinking. En la base de todo desarrollo está un proceso de “entendimiento” que en la agilidad se ha recopilado en distintas prácticas conocidas como Inception. Un ejercicio atento de conexión con el usuario donde se identifican los problemas y posibles usos para que la solución propuesta confirme que está clara la visión que se tiene del producto o servicio.
+Wendell [Wendell 2013] describe la forma en la que trabaja en su organización donde implementan “algunos elementos de agilidad” y se ve una correlación con el Pensamiento de Diseño o Design Thinking. En la base de todo desarrollo está un proceso de “entendimiento” que en la agilidad se ha recopilado en distintas prácticas conocidas como Inception. Un ejercicio atento de conexión con el usuario donde se identifican los problemas y posibles usos para que la solución propuesta confirme que está clara la visión que se tiene del producto o servicio.
 
 Al apoyar procesos de desarrollo desde el diseño de la propuesta de valor, he querido darle un alcance distinto a las épicas para encontrar en ellas los comportamientos que se van a acompañar. Es imposible cambiar un comportamiento con sólo una historia de usuario pero sí se puede influenciar un comportamiento para que, poco a poco, se convierta en un hábito.
 
@@ -52,7 +52,7 @@ Al respecto, y aunque este capítulo no se refiere al comportamiento humano es i
 
 **_Figura 4.1_**_. LYPS - Love your epics
 
-LYPS ha sido usado para la identificación de comportamientos en aplicaciones móviles y sitios web para encontrar si las implementaciones confirman los números esperados. La hemos puesto en marcha usando a la par herramientas de graficación de tráfico y donde los usuarios hacen realmente click (e.g. http://www.crazyegg.com/ ; https://mouseflow.com/, etc.) con el fin de validar los comportamientos esperados.
+LYPS ha sido usado para la identificación de comportamientos en aplicaciones móviles y sitios web para encontrar si las implementaciones confirman los números esperados. La hemos puesto en marcha usando a la par herramientas de graficación de tráfico y donde los usuarios hacen realmente click (por ejemplo http://www.crazyegg.com o https://mouseflow.com) con el fin de validar los comportamientos esperados.
 
 La idea de encontrar un mecanismo que permita modificar, con precisión, un comportamiento humano es poco menos que una fantasía. Nada puede predecir cómo los individuos y los grupos de personas reaccionan frente a una señal o un impulso; podemos entender y anticipar algunos pero estamos siempre frente a la complejidad propia de los seres humanos. Contemplar los comportamientos es preparar los límites suficientes para contar con metas y objetivos no sólo alineados con el negocio sino con el uso de las soluciones.
 
