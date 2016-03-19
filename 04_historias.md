@@ -44,13 +44,13 @@ Para esos diálogos diseñé un formato, una plantilla llamada LYPS como acróni
 
 LYPS se usa en el Inception o gestación de la idea, durante el diseño de la propuesta de valor, a medida que vamos descubriendo las posibilidades de la solución que se va a programar, etc. y propone una serie de campos para ser usados con los interesados en cada fase del proyecto. Puede ser desde el equipo de desarrollo en pleno o en sesiones con cliente y desarrolladores.
 
-Los campos descritos en la imagen se utilizan con la misma libertad de apropiación de otras herramientas ágiles. Sin embargo, el grupo debe tener en cuenta qué entiende por “comportamiento que espera modificar” porque es sobre eso que se puede medir el impacto de la solución: e.g. “Disminuir en un 20% la cantidad de formularios rechazados”, etc. Este camino permite oportunidades de mejora y de modificación constante de la solución.
+Los campos descritos en la imagen se utilizan con la misma libertad de apropiación de otras herramientas ágiles. Sin embargo, el grupo debe tener en cuenta qué entiende por “comportamiento que espera modificar” porque es sobre eso que se puede medir el impacto de la solución, por ejemplo "Disminuir en un 20% la cantidad de formularios rechazados". Este camino permite oportunidades de mejora y de modificación constante de la solución.
 
 Al respecto, y aunque este capítulo no se refiere al comportamiento humano es importante tener en cuenta que las conductas humanas y los comportamientos tienen relación y sutiles pero importantes diferencias. Una conducta se refiere a acciones asociados a un código propuesto en grupo y con implicaciones morales. El comportamiento habla de respuestas, acciones y actividades de un organismo. La conducta se refiere también a una lectura trazable en el tiempo, normalmente en una institución mientras que el comportamiento responde a interacciones inmediatas.
 
-![love-your-epics-jdaza.jpg](assets/4.1.png)
+![love your epics](assets/4.1.png)
 
-**_Figura 4.1_**_. LYPS - Love your epics V. 1.0.3 Juan Daza Arévalo (CC. BY-SA 4.0)_
+**_Figura 4.1_**_. LYPS - Love your epics
 
 LYPS ha sido usado para la identificación de comportamientos en aplicaciones móviles y sitios web para encontrar si las implementaciones confirman los números esperados. La hemos puesto en marcha usando a la par herramientas de graficación de tráfico y donde los usuarios hacen realmente click (e.g. http://www.crazyegg.com/ ; https://mouseflow.com/, etc.) con el fin de validar los comportamientos esperados.
 
