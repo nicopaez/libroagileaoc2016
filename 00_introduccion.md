@@ -27,7 +27,7 @@ Los capítulos pueden ser leídos en cualquier orden ya que como se mencionó an
 
 ## Créditos
 
-Autores: Thomas Wallet, Tomás Christie, Pablo Lischinsky, Pablo Tortorella, Juan Daza Arébalo, Vanesa Savino, Omar Fernández, Alejandro Faguaga, Soledad Pinter, Virginia Brassesco, Natalia Baeza, Leonardo Barrientos Silva, Hiroshi Hiromoto, Fernando Di Bartolo, Nicolás Paez
+Autores: Thomas Wallet, Tomás Christie, Pablo Lischinsky, Pablo Tortorella, Juan Daza Arévalo, Vanesa Savino, Omar Fernández, Alejandro Faguaga, Soledad Pinter, Virginia Brassesco, Natalia Baeza, Leonardo Barrientos Silva, Hiroshi Hiromoto, Fernando Di Bartolo, Nicolás Paez
 
 Revisión: Natalia Baeza, Virginia Brassesco y Nicolás Paez
 
