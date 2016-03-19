@@ -48,7 +48,7 @@ Los campos descritos en la imagen se utilizan con la misma libertad de apropiaci
 
 Al respecto, y aunque este capítulo no se refiere al comportamiento humano es importante tener en cuenta que las conductas humanas y los comportamientos tienen relación y sutiles pero importantes diferencias. Una conducta se refiere a acciones asociados a un código propuesto en grupo y con implicaciones morales. El comportamiento habla de respuestas, acciones y actividades de un organismo. La conducta se refiere también a una lectura trazable en el tiempo, normalmente en una institución mientras que el comportamiento responde a interacciones inmediatas.
 
-![love-your-epics-jdaza.jpg](assets/love-your-epics-jdazajpg.jpeg)
+![love-your-epics-jdaza.jpg](assets/4.1.png)
 
 **_Figura 4.1_**_. LYPS - Love your epics V. 1.0.3 Juan Daza Arévalo (CC. BY-SA 4.0)_
 
