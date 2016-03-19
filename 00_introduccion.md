@@ -31,6 +31,8 @@ Autores: Thomas Wallet, Tomás Christie, Pablo Lischinsky, Pablo Tortorella, Jua
 
 Revisión: Natalia Baeza, Virginia Brassesco y Nicolás Paez
 
+Figuras: Juan Daza Arévalo
+
 Arte de tapa: Mauro Strione
 
 Foto de tapa: Diego Gómez
