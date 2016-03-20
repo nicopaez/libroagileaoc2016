@@ -1,6 +1,8 @@
 # _Continuous Discovery_: Validación de ideas para el Backlog
 
-Por Alejandro Faguaga, @afaguaga## Palabras clave {#palabras-clave}
+Por Alejandro Faguaga, @afaguaga
+
+## Palabras clave
 
 Dual track scrum, inception, discovery, productos con impacto, business value, UX
 
