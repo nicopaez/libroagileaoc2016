@@ -45,13 +45,13 @@ Este método previene que el experto sea consultado todo el tiempo, escalando la
 
 Cuando surge una duda, el primero a ser consultado es nuestro compañero de la izquierda. Si la duda se puede resolver, no se escala más. De lo contrario nuestro compañero se la transmite a su compañero de la izquierda, y así sucesivamente hasta llegar al experto. En este caso el experto explica la solución para todo el equipo.
 
-### Coaching {#coaching}
+### Coaching
 
 Este método tiene por objetivo que el desarrollador se sienta seguro al introducirse en un tema complejo ya que su trabajo está respaldado por los conocimientos brindados por el experto.
 
 Cuando un miembro del equipo necesita resolver una tarea que requiere del conocimiento del especialista, solicita su asesoramiento. El especialista aporta su visión y experiencia, discutiendo juntos la forma de aproximarse a la solución con menos trabas y escollos en el camino.
 
-### Más que programación en parejas {#m-s-que-programaci-n-en-parejas}
+### Más que programación en parejas
 
 En programación de a pares (_pair programming_) el grupo es conformado por dos programadores, pero en esta propuesta uno de los miembros es el experto que no necesariamente es un programador. A diferencia de _coaching_, el experto permanece constantemente junto al desarrollador hasta finalizar la solución.
 
@@ -63,7 +63,7 @@ Siempre que se crea conveniente, se puede solicitar la colaboración temporaria 
 
 Este método puede aplicarse junto con la “regla de la mano izquierda” y armar un equipo con el compañero de la izquierda.
 
-### El héroe nuestro de cada semana {#el-h-roe-nuestro-de-cada-semana}
+### El héroe nuestro de cada semana
 
 Este método tiene un doble propósito, el primero es que cada miembro del grupo se encuentre capacitado para resolver las urgencias del sistema. El otro es que el experto pueda continuar con sus tareas y no se encargue exclusivamente de los casos urgentes, que provocan demoras en su trabajo si las interrupciones son muy frecuentes.
 
@@ -75,7 +75,7 @@ Quien desempeñe este rol continúa con sus tareas habituales; en caso de haber 
 
 Este método puede combinarse con “_coaching_” y “más que programación en parejas” para facilitar un arreglo urgente.
 
-### Resolución que hace eco {#resoluci-n-que-hace-eco}
+### Resolución que hace eco
 
 Este método pretende unificar criterios, lo que facilita el entendimiento de los temas. También propone que se incorporen ideas generales del funcionamiento del sistema cuando se investiga en busca de comportamiento común dentro de la aplicación.
 
@@ -85,7 +85,7 @@ En una aplicación grande y de larga data, suele ocurrir que la solución a un p
 
 Este método se puede combinar libremente con cualquiera de los métodos que consisten en desarrollo, ya que no interfiere con su misión.
 
-### Repositorio de conocimiento compartido {#repositorio-de-conocimiento-compartido}
+### Repositorio de conocimiento compartido
 
 Construir un repositorio en la nube y compartir la documentación ha desplazado al uso de otros sistemas más formales. Hoy en día existen muchas plataformas y servicios gratuitos que brindan acceso desde diferentes dispositivos, lo que facilita la distribución de la documentación.
 
@@ -93,21 +93,21 @@ Este método tiene por objetivo tener disponibilidad online de la documentación
 
 Es muy importante mantener un orden conocido por todos, para que cada miembro sepa dónde ubicar el contenido que produce o donde buscar la información que necesita. Dependiendo de la organización se pueden otorgar diferentes permisos de acceso y edición, lo que requiere una moderación del contenido que se cree colaborativamente.
 
-### Capacitación {#capacitaci-n}
+### Capacitación
 
 Se van a explicar dos maneras de comunicar información. El objetivo es incorporar conceptos a través de diferentes formatos, el más moderno, audiovisual y el tradicional con material escrito.
 
-#### Clases particulares {#clases-particulares}
+#### Clases particulares
 
 Consiste en preparar clases con temas especiales y brindar material para los asistentes que ayude a la compresión del tema tratado. Es fundamental que luego el material se suba al repositorio para que pueda ser consultado en cualquier momento. Además conviene tener un modelo de contenido para implementar las charlas, dando un marco mínimo de información que deben cubrir.
 
-#### Tarde de películas {#tarde-de-pel-culas}
+#### Tarde de películas
 
 Existen muchos videos de tutoriales online que nos enseñan desde cómo hacer el nudo de una corbata hasta como aprender a tocar la guitarra. Esta forma de enseñanza es cada vez más habitual, incluso se pueden encontrar clases de prestigiosas universidades disponibles online.
 
 ¿Por qué no aplicarlo entonces a nuestro sistema? Para partes que sufren pocas modificaciones, como la configuración de un entorno, es de mucha utilidad contar con tutoriales que muestren la configuración correcta, de esta forma se ahorra mucho tiempo de búsqueda infructuosa.
 
-### Diseño colaborativo {#dise-o-colaborativo}
+### Diseño colaborativo
 
 Como ya se sabe la visión de grupo en sinergía supera la suma de la visión de sus miembros.
 
