@@ -16,7 +16,7 @@ Presentamos aquí una serie de técnicas o prácticas muy simples pero eficaces 
 
 ## Motivación
 
-### La previa {#la-previa}
+### La previa
 
 Supongamos que estamos empezando a acompañar a un equipo en su primer proyecto ágil, dentro de una gran organización tradicional, un gigante que se mueve muy lento.
 
@@ -30,7 +30,7 @@ De la extensa lista de nombres nos parece reconocer a una persona y vamos a su e
 
 Volvemos a nuestro escritorio un tanto desilusionados.
 
-### La reunión {#la-reuni-n}
+### La reunión
 
 Entramos a la sala, hay 10 personas que no conozco. Sigue llegando gente hasta que claramente hay más personas en la sala de las que había en la invitación.
 
@@ -54,7 +54,7 @@ Esto es un claro ejemplo de una extensa reunión de más de dos horas donde se h
 
 Para intentar evitar todo lo anterior se pueden implementar una serie de prácticas que nos permitieron optimizar el tiempo de los asistentes, que no les quite las ganas de volver a tener una reunión y que por sobre todo sean simples, eficaces y sencillas de realizar, es decir implementables.
 
-### Prácticas {#pr-cticas}
+### Prácticas
 
 **Enviar Agenda Visual:** básicamente lo que se propone aquí es definir agendas digitales de manera gráfica para incluir en las invitaciones de las distintas reuniones o ceremonias, ya sean de Scrum o no.
 
@@ -69,19 +69,19 @@ Esta práctica permite clarificar varios temas, a saber:
 
 Esta práctica además de brindar mucha información útil previa a la reunión, es mucho más efectiva que poner el texto en la agenda de la invitación, ya que por lo general la gente no se detiene a leer el texto (sobre todo si ve que es muy extenso).
 
-![C:\Users\afaguaga\Documents\Baufest\AOC\AOC 2016\Libro AOC - Reuniones (In)eficientes\Template - Sprint Planning v1.0.jpg](assets/cusersafaguagadocumentsbaufest.jpeg)
+![sprintplanning](assets/7.1.png)
 
-**_Figura 7.1_** _– Template para reuniones de planificación de Sprint_
+**_Figura 7.1.** Plantilla para reuniones de planificación de Sprint_
 
-Comúnmente en las reuniones dedicamos excesiva cantidad de tiempo a ciertas tareas o discusiones que no llevan a nada productivo por el simple hecho de que las personas pierden la noción del tiempo. Cuando definimos de antemano y de manera conjunta (por ejemplo por votación) el tiempo que le vamos a dedicar a cada actividad de la reunión y además hacemos explícito y visual el paso del tiempo es increíble como la situación cambia. Por ejemplo, en algunas reuniones de _Inception_ hemos definido como equipo que no le dedicaríamos más de 15’ a cada requerimiento para generar las _User Stories_ iniciales. Esto hizo que las personas tomaran conciencia y optimizaran ese tiempo por el simple hecho de ver en un cronómetro el tiempo restante. Esto no significa que pasados los 15 minutos tengamos que terminar si o si la actividad, quizás solo puede servir para tomar conciencia de que estamos excediendo el límite y eso nos quitaría tiempo para analizar el siguiente requerimiento. Otro ejemplo es cronometrar las reuniones diarias de Scrum. Una vez excedido el límite de tiempo establecido, se puede dar por terminada la reunión o simplemente hacer saber que nos estamos excediendo. Eso dependerá de cada equipo. Lo importante es tener la noción del tiempo, tanto el destinado a cada actividad (_time-boxing)_, como el registro del tiempo transcurrido, siempre presente.
+**Cronomertar las reuniones:** comúnmente en las reuniones dedicamos excesiva cantidad de tiempo a ciertas tareas o discusiones que no llevan a nada productivo por el simple hecho de que las personas pierden la noción del tiempo. Cuando definimos de antemano y de manera conjunta (por ejemplo por votación) el tiempo que le vamos a dedicar a cada actividad de la reunión y además hacemos explícito y visual el paso del tiempo es increíble como la situación cambia. Por ejemplo, en algunas reuniones de _Inception_ hemos definido como equipo que no le dedicaríamos más de 15’ a cada requerimiento para generar las _User Stories_ iniciales. Esto hizo que las personas tomaran conciencia y optimizaran ese tiempo por el simple hecho de ver en un cronómetro el tiempo restante. Esto no significa que pasados los 15 minutos tengamos que terminar si o si la actividad, quizás solo puede servir para tomar conciencia de que estamos excediendo el límite y eso nos quitaría tiempo para analizar el siguiente requerimiento. Otro ejemplo es cronometrar las reuniones diarias de Scrum. Una vez excedido el límite de tiempo establecido, se puede dar por terminada la reunión o simplemente hacer saber que nos estamos excediendo. Eso dependerá de cada equipo. Lo importante es tener la noción del tiempo, tanto el destinado a cada actividad (_time-boxing)_, como el registro del tiempo transcurrido, siempre presente.
 
 **Distribución de roles y auto-organización de tareas:** es importante repartir las tareas simples de forma tal de distribuir los esfuerzos y organizar rápidamente las reuniones. Por ejemplo, designar quién va a escribir o actualizar las User Stories, quien va a cronometrar las actividades, quien va a registrar los impedimentos y las acciones a realizar, quien va a tomar notas para la minuta en caso de ser necesaria o requerida, quien va a facilitar la reunión, etc. Los roles y asignaciones pueden variar de persona de una reunión a otra y lo ideal es que las personas se auto organicen para distribuir la carga.
 
 **Creación de posters visuales:** siguiendo con la idea que lo visual tiene un gran impacto, especialmente en organizaciones tradicionales y más conservadoras, una buena práctica es tener _posters_ _visuales_ que guíen la reunión y permitan tener el foco todo el tiempo en lo importante. En la figura 7.2 y 7.3 vemos ejemplos de posters que fueron creados para una reunión de revisión de Sprint (_Sprint Review_):
 
-![C:\Users\afaguaga\Documents\Baufest\AOC\AOC 2016\Libro AOC - Reuniones (In)eficientes\Poster - Sprint Review v1.0.jpg](assets/cusersafaguagadocumentsbaufest.jpeg)
+![sprintReview](assets/7.2.png)
 
-**_Figura 7.2_** _– Poster digital para la ceremonia de revisión del Sprint_
+**_Figura 7.2.** Poster digital para la ceremonia de revisión del Sprint_
 
 Estos _pósters_ se pueden imprimir a color en el tamaño que nos parezca útil y pegarse en la sala de reuniones para que todos los vean.
 
