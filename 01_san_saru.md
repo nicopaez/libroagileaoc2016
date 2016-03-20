@@ -74,14 +74,6 @@ El primer experimento de inscripcion San Saru para el _Agile Open Camp 2016_ [AO
 *   Se inició la etapa de postulación el 1/12/2015, recibiendo 119 postulaciones hasta el 25/2/2016, de las todas fueron seleccionadas.
 *   Se inició la etapa de selección el 23/12/2015, generando 119 selecciones hasta el 26/2/2016, de las cuales 24 personas no se inscribieron o cancelaron su inscripción por motivos varios.
 
-A continuación se muestra el árbol de selecciones generado:
-
-![San Saru.png](assets/san_saru.png)
-
-**_Figura 1.3._** _Árbol de selección del AOC 2016_
-
-_(En verde los participantes al evento, en rojo los que se dieron de baja)_
-
 ### Conclusión
 
 ### (Des)control
