@@ -85,20 +85,19 @@ Esta práctica además de brindar mucha información útil previa a la reunión,
 
 Estos _pósters_ se pueden imprimir a color en el tamaño que nos parezca útil y pegarse en la sala de reuniones para que todos los vean.
 
-![C:\Users\afaguaga\Documents\Baufest\AOC\AOC 2016\Libro AOC - Reuniones (In)eficientes\Poster - Sprint Review_do v1.0.jpg](assets/cusersafaguagadocumentsbaufest.jpeg) ![C:\Users\afaguaga\Documents\Baufest\AOC\AOC 2016\Libro AOC - Reuniones (In)eficientes\Poster - Sprint Review_Dont v1.0.jpg](assets/cusersafaguagadocumentsbaufest.jpeg)
+![dosandonts](assets/7.3.png)
+**_Figura 7.3:** Posters de “DOs & DONTs” para una reunión de revisión de Sprint_
 
-**_Figura 7.3_** _– Posters de “DOs & DONTs” para una reunión de revisión de Sprint_
-
-**Facilitación Gráfica: l**uego de empezar a usar pósters digitales nos fuimos dando cuenta que en muchas ocasiones realizar afiches gráficos o incluso facilitar las reuniones gráficamente “en vivo” tenía aún más impacto y captaba mucho más la atención de la audiencia. Con lo cual fuimos incorporando esta técnica para transmitir mensajes importantes o resaltar temas que queríamos que los asistentes se lleven incorporados.
+**Facilitación Gráfica:** luego de empezar a usar pósters digitales nos fuimos dando cuenta que en muchas ocasiones realizar afiches gráficos o incluso facilitar las reuniones gráficamente “en vivo” tenía aún más impacto y captaba mucho más la atención de la audiencia. Con lo cual fuimos incorporando esta técnica para transmitir mensajes importantes o resaltar temas que queríamos que los asistentes se lleven incorporados.
 
 En la Figura 7.4 podemos ver un ejemplo de afiche utilizado para describir a través de la facilitación gráfica los conceptos básicos de Scrum durante una reunión. Esta lámina fue creada “en vivo” y de forma colaborativa por los asistentes.
 
-![C:\Users\afaguaga\Documents\Baufest\Comunidad\Curso Scrum Innovador\Fotos\Office Lens 20151016-190758.jpg](assets/cusersafaguagadocumentsbaufest.jpeg)
+![scrumposter](assets/7.4.png)
 
-**_Figura 1.4\._ **_Afiche descriptivo del proceso de Scrum_
+**_Figura 7.4\._ **_Afiche descriptivo del proceso de Scrum_
 
 **Mini _kick-off_:** en muchas actividades que involucran varias reuniones o tiempos más extensos, como puede ser la Sprint 0 o _Inception_ de un proyecto ágil, optamos por realizar una reunión de kick-off de la actividad, en la cual no se habla de los requerimientos ni nada especifico del proyecto, sino que se describe que es lo que va a suceder en dicha fase o actividad en las próximas reuniones, semanas o incluso meses. Esto sirve para bajar la ansiedad de los asistentes, alinear expectativas, pulir la audiencia que va a participar y alinear la visión de lo que viene, como así también para que los asistentes entiendan el porqué de lo que estaremos haciendo, la importancia de hacerlo, los beneficios aparejados, las desventajas de no hacerlo y que sientan que las próximas reuniones serán una inversión y no un pérdida de tiempo.
 
-### Conclusión {#conclusi-n}
+### Conclusión
 
 Existen muchas prácticas simples que podemos realizar para optimizar el tiempo y realizar reuniones o ceremonias más efectivas. Y adicionalmente a la eficiencia y las prácticas eficaces, siempre es bueno tratar de generar un clima cálido y agradable en las reuniones. Si logramos tener reuniones eficientes y transitar las actividades inmersos en un clima de buen humor, lograremos que las personas sientan que se llevaron algo, invirtieron su tiempo y se divirtieron, con lo cual estaremos dando un paso firme en el afán de lograr que esas personas vuelvan a participar con buena predisposición cuando sean convocadas. En definitiva un poco de eso se trata todo esto, lograr buenos resultados y a la vez compartir un buen momento en equipo.
