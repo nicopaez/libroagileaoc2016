@@ -47,6 +47,7 @@ Puedes considerar encontrarte en alguna etapa, pero las actitudes que manifieste
 
 Es usual mantenerse en la etapa Shu y Ha y sentirse conforme, pero es importante llegar a la etapa Ri, en la cual no sólo se aprecia el sentido de una técnica o práctica, sino que también se develan aspectos de ella que la hacen singular, encontrarás patrones y nuevas formas de mejorarla. Apreciarás que el aprendizaje de algo no es un tema terminado sino más bien un camino que se debe seguir recorriendo.
 
+![shuhari](assets/6.1.png)
 **_Figura 6.1_**_. Relación entre Shu, Ha y Ri_
 
 Además, una misma persona puede estar en distintos estados en cada una de sus destrezas en un instante de tiempo, y, en un equipo, cada integrante puede estar en distintos estados con respecto a una destreza. Por otro lado podríamos hablar del estado de todo el equipo en una destreza o técnica en particular.
