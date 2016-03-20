@@ -26,9 +26,6 @@ Partiendo del supuesto que la demanda de entradas para el AOC iba a superar ampl
 
 ## Descripción
 
-![San Saru.jpg](assets/1.1.png)
-**_Figura 1.1._** _San Saru en japonés_
-
 ### Metafora San Saru
 
 _San Saru_ es un término japonés que se puede traducir como “los tres monos sabios”. Entre las múltiples explicaciones existentes del concepto, destacamos la siguiente [Román 2006]:
@@ -64,9 +61,9 @@ Cada uno de los tres miembros del **San Saru Primario** elige a dos personas pos
 
 Se comunica a las nuevas personas elegidas su selección, lo cual habilita, por un lado su inscripción al evento, y por otro lado su responsabilidad de generar un nuevo **San Saru Terciario,** eligiendo dos personas cada una dentro de las postulaciones restantes.
 
-![San Saru.gif](assets/san_saru.gif)
+![San Saru primario](assets/1.1.png)
 
-**_Figura 1.2._** _Ejemplos de San Saru Primario, Secundario y Terciario._
+**_Figura 1.1._** _Ejemplos de San Saru Primario, Secundario y Terciario._
 
 Se repite el ciclo hasta generar todos los San Saru necesarios para cubrir las vacantes disponibles con las personas seleccionadas. Si bien la etapa de postulación se inicia un tiempo antes que la etapa de selección, una vez iniciada la etapa de selección las dos se desarrollan en paralelo hasta agotar las vacantes disponibles.
 
