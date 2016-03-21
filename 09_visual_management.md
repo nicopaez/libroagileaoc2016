@@ -1,18 +1,21 @@
 # Introducción a Visual Management
+Por Soledad Pinter, @solepinter
 
-Por Soledad Pinter, @solepinter## Etiquetas {#etiquetas}
+## Etiquetas
+Visual management, kanban, tableros
 
-Visual management, kanban, tableros## Intención {#intenci-n}
+## Intención
+¿Cómo visualizar el estado de las tareas en curso? ¿Qué información es importante compartir con el equipo? ¿Cómo la compartimos?
 
-¿Cómo visualizar el estado de las tareas en curso? ¿Qué información es importante compartir con el equipo? ¿Cómo la compartimos?## Motivación {#motivaci-n}
+## Motivación
+Cuando trabajamos en equipo, necesitamos conocer los diferentes estados de las tareas en las que está trabajando cada integrante. También necesitamos visualizar información valiosa e importante para todo el equipo y muchas veces no sabemos cómo, ni cuál.
 
-Cuando trabajamos en equipo, necesitamos conocer los diferentes estados de las tareas en las que está trabajando cada integrante. También necesitamos visualizar información valiosa e importante para todo el equipo y muchas veces no sabemos cómo, ni cuál.## Descripción {#descripci-n}
-
+## Descripción
 El visual management es un conjunto de técnicas de visualización para administrar información, en particular en este capítulo será en contexto del seguimiento de un proyecto.
 
 Aquí encontrarás una lista de ideas que se pueden realizar para que los equipos cuenten con la información que necesitan visible cerca de su área de trabajo. Se trata principalmente del uso de láminas con diagramas UML, frases clave del proyecto en el que trabajan y láminas con gráficas acerca de temas importantes,como por ejemplo: decisiones de diseño, arquitectura, infraestructura. Todo eso, en las paredes visibles a todo el equipo. Y con colores que permitan visualizar rápidamente lo que es relevante.
 
-### Radiadores de Información {#radiadores-de-informaci-n}
+### Radiadores de Información
 
 El término Radiadores de Información (_Information Radiators_) fue usado por primera vez en contextos Ágiles por Alistair Cockburn. Él se refería en particular a los _Taskboards_, Charts and Continuous Integration Build Health Indicator.
 
@@ -32,7 +35,7 @@ Algunos consejos para lograr buenos RI. Éstos deben ser:
 
 A continuación enumeramos algunos RI que son fáciles de implementar rápidamente y ayudan a una mejor organización, coordinación y colaboración del equipo.
 
-### Tableros Kanban {#tableros-kanban}
+### Tableros Kanban
 
 Este es el tablero más famoso y utilizado en los equipos. Con el podemos visualizar el flujo del proceso y el estado de cada una de las tareas dentro del mismo.
 
