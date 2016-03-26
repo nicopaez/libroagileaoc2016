@@ -46,17 +46,17 @@ Si bien es cierto que he visto equipos aplicar estos tres elementos en una retro
 
 Antes de profundizar en Improvement Kata, quisiera comentar brevemente sobre el concepto de la _kata_, ya que da las bases para entender la importancia del patrón.
 
-### Kata {#kata}
+### Kata
 
 _La kata_ es un concepto que viene de las artes marciales. De forma general es un patrón que repites continuamente de forma deliberada para generar memoria muscular y luego realizarlo casi sin pensar. Por ejemplo en la película Karate Kid [Karate Kid 1984], Daniel repetía el movimiento de _encerar y pulir_ para tenerlo interiorizado y poder utilizarlo en la pelea de karate de forma natural, casi automática.
 
 En el caso de Improvement Kata, este es un patrón que repetimos para generar una memoria muscular de mejora, de forma que se vuelva un hábito.
 
-### Improvement Kata {#improvement-kata}
+### Improvement Kata
 
 Improvement Kata [Rother 2009] está enfocado en ayudarnos a dar pasos que nos permitan ir acercándonos al desafío mejorando continuamente. A grandes rasgos tiene dos etapas: una de planificación y otra de experimentación, que se repiten cíclicamente.
 
-#### Etapa de planificación {#etapa-de-planificaci-n}
+#### Etapa de planificación
 
 En esta etapa se genera la parte estratégica de Improvement Kata, así como el seteo inicial que nos permitirá experimentar. Existen cuatro elementos a tomar en cuenta:
 
@@ -95,7 +95,7 @@ Obstáculos
 
 Los obstáculos son una lista de elementos que te impiden estar en la siguiente condición objetivo. Estos pueden tomar forma de problemas, impedimentos o contextos.
 
-#### Etapa de Experimentación {#etapa-de-experimentaci-n}
+#### Etapa de Experimentación
 
 En esta etapa es donde ocurre toda la magia y es el momento en dónde se ponen a prueba las hipótesis y se genera el aprendizaje.
 
@@ -105,63 +105,63 @@ Una vez que están identificados los obstáculos se procede a elegir uno y trata
 
 Algo importante a notar es que Improvement Kata promueve el uso de los experimentos de factor único (_single-factor experiments_), que implican hacer un solo cambio a la vez, lo que permite capitalizar el aprendizaje de forma más efectiva.
 
-![creen%252520Shot%2525202014-07-03%252520at%2525209.19.23%252520PM.png](assets/creen252520shot2525202014-07-032.png)
+![12.1](assets/12.1.png)
 
-**_Figura 12.1._** _Improvement Kata_
+_**Figura 12.1**. Improvement Kata_
 
-### Ejemplo de aplicación de Improvement Kata {#ejemplo-de-aplicaci-n-de-improvement-kata}
+### Ejemplo de aplicación de Improvement Kata 
 
 Para hacer más didáctica la explicación usaré un ejemplo simplificado de aplicación en un equipo de desarrollo de software.
 
 Les presento a Juan, Karl, Martín, Carlos y Lisbeth (Team Leader). Ellos son un equipo de desarrollo que trabaja desarrollando y dando soporte a la aplicación de ventas de su organización.
 
-![l Equipo.png](assets/l_equipo.png)
+![12.2](assets/12.2.png)
 
-**_Figura 12.2._** _El equipo_
+_**Figura 12.2**. El equipo_
 
 En la empresa donde trabaja el equipo, el área de tecnología tiene una visión común que es:
 
 _“Ser un brazo estratégico del desarrollo del negocio a través de tecnología."_
 
-#### El desafío {#el-desaf-o}
+#### El desafío
 
 Con la visión en mente tanto Lisbeth como el director de IT llegaron a un consenso sobre el desafío que tienen tomando en cuenta la visión del área:
 
 _“Entregar software de valor continuamente con menos del 5% de funcionalidades con bugs en producción por release."_
 
-![ost Toyota Kata %2B Software.001.png](assets/ost_toyota_kata_2b_software001.png)
+![12.3](assets/12.3.png)
 
-**_Figura 12.3._** _El desafío_
+_**Figura 12.3**. El desafío_
 
-#### Situación Actual {#situaci-n-actual}
+#### Situación Actual
 
 Con el desafío claro, Lisbeth se reúne con su equipo en el lugar del trabajo, para que juntos determinen la situación actual.
 
 Ellos actualmente utilizan un tablero kanban y tienen algunas métricas tanto del proceso como del resultado. Basado en eso la condición actual es:
 
-![ost Toyota Kata %2B Software.002.png](assets/ost_toyota_kata_2b_software002.png)
+![12.4](assets/12.4.png)
 
-**_Figura 12.4._** _La sitaución actual_
+_**Figura 12.4**. La situación actual_
 
 Nota: La definición de la situación actual está simplificada para el ejemplo.
 
-#### Siguiente Condición Objetivo {#siguiente-condici-n-objetivo}
+#### Siguiente Condición Objetivo
 
 Una vez conscientes de la situación actual, Lisbeth junto con el equipo se proponen una siguiente condición objetivo que debería ser cumplida en dos meses. Consiste en reducir el porcentaje de bugs:
 
 _“15% de features con bugs en producción por release”_
 
-![ost Toyota Kata %2B Software.003.png](assets/ost_toyota_kata_2b_software003.png)
+![12.5](assets/12.5.png)
 
-**_Figura 12.5._** _La siguiente condición objetivo_
+**_Figura 12.5**. La siguiente condición objetivo_
 
-#### Obstáculos {#obst-culos}
+#### Obstáculos
 
 Ahora que Lisbeth y el equipo tienen una meta clara a cumplir en los dos siguientes meses, pueden comenzar a pensar en los obstáculos que actualmente están evitando que estén en esa situación deseada. Luego de un poco de brainstorm, análisis y discusión, llegaron a la siguiente lista:
 
-![ost Toyota Kata %2B Software.004.png](assets/ost_toyota_kata_2b_software004.png)
-
-**_Figura 12.6._** _Los obstáculos_
+![12.6](assets/12.6.png)
+_
+**Figura 12.6**. Los obstáculos_
 
 De todos estos obstáculo, ellos han decidido atacar el obstáculo en naranja primero.
 
