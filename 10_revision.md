@@ -1,9 +1,10 @@
 # Revisión Triangular de Documentos
+Por Natalia Baeza, @Naty3Baeza y Virginia Brassesco, @virbrassesco
 
-Por Natalia Baeza, @Naty3Baeza y Virginia Brassesco, @virbrassesco## Palabras clave {#palabras-clave}
+## Palabras clave
+Revisión por pares, aprendizaje colaborativo, _feedback_, edición, documentación
 
-Revisión por pares, aprendizaje colaborativo, _feedback_, edición, documentación## Intención {#intenci-n}
-
+## Intención
 Se presenta un patrón de revisión de documentos para tratar de evitar:
 
 *   Ambigüedades.
@@ -24,8 +25,9 @@ Este patrón facilita:
 
 Este patrón resulta útil cuando un documento, público o privado, debe ser elaborado y se requiera _feedback_ para mejorar la calidad del contenido, la redacción y la presentación del mismo.
 
-También puede usarse cuando se desee evaluar y/o ampliar el conocimiento de una persona sobre un tema dado.## Descripción {#descripci-n}
+También puede usarse cuando se desee evaluar y/o ampliar el conocimiento de una persona sobre un tema dado.
 
+## Descripción
 Bajo el paradigma Ágil, el código funcionando tiene más valor que la documentación como se puede leer en el [manifiesto ágil]. En general hacemos documentos que refieren a algún producto de software. Sin embargo suele emerger la idea de que éste quedará obsoleto ante algún cambio en el producto, o que escribirlo nos haría perder tiempo productivo, y por eso la documentación no es prioritaria. Pero, ¿qué ocurre cuando el documento es el objetivo de nuestro trabajo, el producto final?
 
 Muchas veces ciertos documentos deben poseer una estructura específica que podría introducir ruido al que intenta comprender una idea. Podría ocurrir que el autor principal no sea experto del dominio o su lenguaje nativo no sea el usado en el documento y, por ende, le podría faltar vocabulario específico.
@@ -43,8 +45,7 @@ Aspectos que matizan al patrón:
 *   _Workflow:_ Contar con un método práctico para seguir el estado del documento.
 *   _Soporte a la comunicación:_ Herramientas que faciliten la visualización de cambios y el estado de la revisión.
 
-### Roles {#roles}
-
+### Roles
 Son tres (así naciendo la idea de triángulo), el _autor_, el _revisor_ y el _editor_.
 
 El _autor_ es quien sabe del tema y quiere exponerlo al mundo, entiende bien de qué se trata y cuál es el alcance del documento. Identificó la necesidad de escribir sobre ello y tiene la voluntad de hacerlo.
@@ -57,13 +58,13 @@ Todo documento surge por una necesidad, pues si no hay necesidad no hay motivos 
 
 El _editor_ es quien se encarga de darle formato y revisar ortográfica y gramaticalmente el texto. Esto es tan importante como el contenido. Nadie quiere leer un documento con errores de ortografía, mal redactado o donde los colores cansan la vista. Por otro lado, puede ser interesante y hasta necesario en ciertas ocasiones, saber a quién pertenece el documento, introduciendo en él algún símbolo que lo identifique: el autor, la compañía o el nombre del producto (sea comercial o no). El editor debe revisar también que el documento tenga la información necesaria para la publicación, sea agradable a la vista, y “que cuente bien la historia”.
 
-### Tareas, ¿Quién se ocupa de qué? {#tareas-qui-n-se-ocupa-de-qu}
+### Tareas, ¿Quién se ocupa de qué?
 
 El autor y el revisor evalúan básicamente _contenido_, definen el _estilo_ de la escritura y parcialmente formato a sólo efecto de no agregar confusión en el documento por ejemplo identificando jerarquías de títulos o definiendo colores que no pueden ser de otro modo. Además, el editor debe saber exactamente a qué le está dando formato, por ende el autor debe entregar un documento con ideas claras al editor.
 
 El rol del editor es muy distinto al del revisor. Él estará concentrado en los aspectos gramaticales, formato y estilo visual del documento. Será el encargado de dejar la versión final publicable. Si es un experto en el idioma de redacción del documento, puede aportar en mejoras del estilo de escritura.
 
-### _Expertise_ {#expertise}
+### _Expertise_
 
 Escribir sobre un tema implica entenderlo en plenitud. Solo puedes explicarlo bien si puedes entenderlo muy bien. La revisión de un experto en etapas tempranas ayuda al aprendizaje y balance de conocimiento entre el autor y el revisor. Así el texto es finalmente construido con el conocimiento de las partes involucradas, consensuando los alcances del documento actual y decidiendo qué documentación elaborar en un siguiente ciclo de revisión.
 
@@ -87,8 +88,7 @@ Con respecto al _expertise_ del editor, debe conocer bien las reglas del lenguaj
 
 Por otra parte, si el diseño del documento es muy complejo, se podría recurrir a algún diseñador que colabore agregando estilos gráficos, corrigiendo imágenes, y dando el marco acorde que identifica al documento como parte de una base de conocimiento específica.
 
-### Comunicación fluida {#comunicaci-n-fluida}
-
+### Comunicación fluida
 La interacción entre las personas que redactan y editan el documento es clave, debe ser fluida. Esto no implica tener reuniones constantemente para poder redactar cada línea; aquí prima la confianza en nuestros pares, donde el grupo de revisión está enfocado a lograr un producto de calidad, construyendo y aprendiendo en el camino.
 
 Antes de comenzar la elaboración del documento hay que elegir las herramientas que soporten esta comunicación.
@@ -97,7 +97,7 @@ Un ejemplo muy práctico es la plataforma de Google, Google Docs. Lo valioso de 
 
 Aquí es necesario comunicarse en tiempo real. Pueden ser útiles herramientas de _chat_, o llamados telefónicos. El objetivo es visualizar la traza del cambio, aclarar las dudas de inmediato y decidir y resolver en función de ello.
 
-### _Workflow_: Revisión iterativa en ciclos cortos {#workflow-revisi-n-iterativa-en-ciclos-cortos}
+### _Workflow_: Revisión iterativa en ciclos cortos
 
 Para no caer en el cansancio o creencias de que se “pierde tiempo” en un documento, la redacción de documentos debe ser de manera iterativa, con el cubrimiento de todos los roles aportando cambios incrementales pequeños, con lo cual se requiere menos tiempo para tomar una decisión sobre ellos, y por ende son más simples de incorporar (descartar) en el documento, o bien crear nuevos documentos a partir de ellos. Además así se mantienen actualizados a lo que realmente ocurre en ese momento.
 
@@ -105,7 +105,7 @@ Es común que al elaborar un documento hagamos referencias a otros existentes ya
 
 Para poder hacer un seguimiento de documentos publicados se recomienda que cada documento tenga una fecha o versión de publicación que coloque el editor final.
 
-#### Aún así, ¿quién empieza? {#a-n-as-qui-n-empieza}
+#### Aún así, ¿quién empieza?
 
 El autor es el que da el paso inicial. Manifiesta ideas lo más claramente posible y en un muy corto plazo, por ejemplo 1 día o 2, el revisor ya se hace parte del documento.
 
@@ -113,9 +113,10 @@ Alinea los tópicos, pide explicaciones verbales sobre los mismos (esto puede im
 
 Si al escribir cualquier cosa del documento hay un “impedimento” se debe acudir de inmediato al revisor o viceversa (revisor a autor).
 
-Y aquí hemos trazado un canal de ida y vuelta en la comunicación dando forma a un lado de nuestro triángulo, Figura 2.1.
+Y aquí hemos trazado un canal de ida y vuelta en la comunicación dando forma a un lado de nuestro triángulo, Figura 10.1.
 
-**_Figura 2.1._** _Interacción autor-revisor_
+![](assets/10.1.png)
+**_Figura 10.1**.Interacción autor-revisor_
 
 En esta etapa de la revisión pueden surgir documentos anexos, secciones no previstas o nuevos documentos a generar a posteriori. Hasta aquí es claramente una revisión de pares.
 
@@ -125,21 +126,23 @@ Cuando ya hay una versión lo suficientemente madura del documento que contenga 
 
 Es posible que el editor no requiera ayuda del autor o revisor para realizar su tarea, pero si hay algo de fondo que se deba cambiar o alguna idea no está clara, el editor debe consultar al autor.
 
-Aquí ya tenemos dos aristas del triángulo. Figura 2.2.
+Aquí ya tenemos dos aristas del triángulo
 
-**_Figura 2.2._** _Interacción autor-editor_
+![10.2](assets/10.2.png)
+**_Figura 10.2**. Interacción autor-editor_
 
 Si el autor no es capaz de responder a la pregunta o no está disponible en ese momento, el editor debe acudir al revisor.
 
-La tercer arista es más liviana (editor al revisor y viceversa) ya que quien intermedia cada revisión en el _workflow_, es el autor. Figura 2.3\.
+La tercer arista es más liviana (editor al revisor y viceversa) ya que quien intermedia cada revisión en el _workflow_, es el autor.
 
-**Figura 2.3.** Interacción editor-revisor
+![10.3](assets/10.3.png)
+_**Figura 10.3**. Interacción editor-revisor_
 
 Este ciclo de 3 etapas, debe repetirse cuantas veces sea necesario.
 
 Durante la generación del documento la revisión se realiza de manera cruzada e iterativa hasta tener la versión final que también es revisada por el autor previa a su publicación.
 
-### Otros detalles {#otros-detalles}
+### Otros detalles
 
 Cada equipo de revisión debe generar su propio mecanismo para saber cuándo le toca a quién (siguiendo el _workflow_ anterior) y no pisarse en los cambios. No es recomendable que revisor, editor y/o autor hagan cambios en simultáneo sobre la misma parte del documento. Cada uno debe decir explícitamente si el documento completo o qué parte del él está lista desde su perspectiva.
 
@@ -147,7 +150,7 @@ Otro punto inflexible es que **aquel que decide que algo debe escribirse de otro
 
 Por esta razón es fundamental que la herramienta de soporte de la edición, guarde las versiones y los cambios con autor y _timestamp_. De ese modo es posible tener y visualizar la traza a versiones anteriores y resolver dudas aclarando ideas nuevas.
 
-### Conclusiones {#conclusiones}
+### Conclusiones
 
 Este patrón se propone como un mecanismo de aprendizaje extendiendo la idea de revisión de pares. Se definen 3 roles principales, cada uno con su expertise aportando valor en un proceso iterativo de revisión.
 
@@ -155,6 +158,6 @@ A la hora de implementarlo seamos concientes que los participantes van a ser enr
 
 De este modo, se facilita la elaboración de documentos que soporten la gestión del conocimiento a partir de un documento de calidad, dividiendo y distribuyendo la revisión en pequeñas tareas y actuando de forma colaborativa. Aplicado el patrón, el producto debe lograrse en cortos períodos de tiempo dando valor y resolviendo una necesidad actual de aprendizaje y divulgación, e incrementando una base de conocimiento que intenta mantenerse actualizada.
 
-### Agradecimientos {#agradecimientos}
+### Agradecimientos
 
 Este capítulo se ha realizado utilizando este patrón de revisión triangular a través de 2 iteraciones. Agradecemos a Pablo Tortorella y Nicolás Páez, como revisor y editor respectivamente, por su colaboración en la primer iteración de revisión triangular que dio forma a este documento.
