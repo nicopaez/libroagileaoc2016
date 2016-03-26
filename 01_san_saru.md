@@ -2,11 +2,9 @@
 Por Thomas Wallet, @WalletThomas y Tomás Christie, @tommychristie
 
 ## Palabras clave
-
 auto-organización, descentralización, propuesta de valor, selección, san saru
 
 ## Intención
-
 En abril del 2015 se realizó el primer _Agile Open Camp_ (AOC), cuyos tres fundadores (Mauro Strione, Tomás Christie y Thomas Wallet) no tenían experiencia alguna en organización de eventos.
 
 Si bien fueron rápidamente respaldados por otros organizadores más experimentados, se pusieron a la venta 50 entradas con poca expectativa de venderlas. A pesar del período de fiestas de fin de año y vacaciones de verano, a las 3 semanas se habían agotado todas las entradas. Luego, se habilitó la venta de 25 entradas más al doble de precio, que se agotaron en menos de una semana. Cuando finalmente se cerraron las inscripciones, quedaron más de 30 personas en lista de espera.
@@ -16,7 +14,6 @@ Para la segunda edición del AOC se amplió la capacidad a 100 personas y desde 
 Durante otro evento de la comunidad ágil [Ágiles 2015], se formó un pequeño grupo luego de las actividades del día, que debatió apasionadamente para revisar ideas previas y explorar alternativas superadoras al mecanismo anterior de inscripción. Tomando como base una idea original de Mauro Strione de selección distribuida logramos entre todos asentar las bases del mecanismo de inscripción _San Saru,_ que se describe más adelante.
 
 ## Motivación
-
 Partiendo del supuesto que la demanda de entradas para el AOC iba a superar ampliamente la cantidad disponible, se diseñó el mecanismo de inscripción llamado _San Saru_ con el objetivo de cumplir con las siguientes características:
 
 *   **Descentralizado,** para que la selección no dependa de un comité restringido.
@@ -41,7 +38,6 @@ Colocados los tres monos según sus habilidades y limitaciones, obtenemos un mon
 La metáfora San Saru, con su fundamento de integración por afinidad y complementariedad, inspiró el mecanismo de inscripción del AOC, con sus dos etapas: **postulación** y **selección.**
 
 ### La postulación
-
 Se solicita a los interesados en participar del AOC postularse, contestando las siguientes preguntas:
 
 *   **¿Qué puedo aportar yo al evento?** ¿Por qué el evento va a ser mejor con mi participación?
@@ -51,7 +47,6 @@ Se solicita a los interesados en participar del AOC postularse, contestando las 
 Todas las postulaciones son públicas.
 
 ### La selección
-
 El **San Saru Primario,** compuesto por los tres fundadores del AOC inicia la selección de los participantes.
 
 Cada uno de los tres miembros del **San Saru Primario** elige a dos personas postuladas para formar un nuevo **San Saru Secundario,** con las siguientes restricciones:
@@ -68,14 +63,12 @@ Se comunica a las nuevas personas elegidas su selección, lo cual habilita, por 
 Se repite el ciclo hasta generar todos los San Saru necesarios para cubrir las vacantes disponibles con las personas seleccionadas. Si bien la etapa de postulación se inicia un tiempo antes que la etapa de selección, una vez iniciada la etapa de selección las dos se desarrollan en paralelo hasta agotar las vacantes disponibles.
 
 ### Resultados
-
 El primer experimento de inscripcion San Saru para el _Agile Open Camp 2016_ [AOC 2016] arrojó los siguientes resultados:
 
 *   Se inició la etapa de postulación el 1/12/2015, recibiendo 119 postulaciones hasta el 25/2/2016, de las todas fueron seleccionadas.
 *   Se inició la etapa de selección el 23/12/2015, generando 119 selecciones hasta el 26/2/2016, de las cuales 24 personas no se inscribieron o cancelaron su inscripción por motivos varios.
 
 ### Conclusión
-
 ### (Des)control
 
 Una vez armadas las herramientas de soporte, hechas las explicaciones correspondientes [AOC 2016], y generadas las selecciones del San Saru Primario, el mecanismo San Saru empezó a funcionar por sí solo, sin necesidad de intervención por parte de la organización sobre sus resultados.
@@ -85,7 +78,6 @@ Se necesitaron algunas comunicaciones de seguimiento para evitar que los selecci
 En varias oportunidades surgió la tentación de intervenir para frenar estas comunicaciones para demorar las selecciones posteriores (por ejemplo cuando quedaban pocas postulaciones disponibles para elegir), pero al final no hubo grandes intervenciones por parte de la organización y se dejó fluir solo el mecanismo San Saru.
 
 ### Lo que aprendimos
-
 Se diseñó el experimento de inscripciones San Saru para el AOC suponiendo que las entradas habilitadas eran pocas para el público interesado, lo cual no se cumplió: todas las postulaciones fueron elegidas, y sobraron 5 vacantes.
 
 Identificamos algunas oportunidades de mejora:
