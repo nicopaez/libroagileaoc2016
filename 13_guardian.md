@@ -1,12 +1,20 @@
 # Guardián de un equipo con múltiples asignaciones
 
-Por Tomás Christie, @tommychristie## Palabras clave {#palabras-clave}
+Por Tomás Christie, @tommychristie
 
-Scrum, mantenimiento, desarrollo, multi-proyecto## Intención {#intenci-n}
+## Palabras clave
 
-La intención de esta técnica es aislar al equipo de las interrupciones, permitiéndoles desarrollar tranquilos.## Motivación {#motivaci-n}
+Scrum, mantenimiento, desarrollo, multi-proyecto
 
-En equipos pequeños que atienden múltiples proyectos en forma simultánea, los integrantes suelen sufrir interrupciones permanentemente. Se pierde el foco, existe un costo altísimo de cambio de contexto y puede traer desmotivación. En general estas interrupciones son por fallas en los sistemas, que requieren de atención inmediata por parte de alguno de los integrantes del equipo, o más de uno.## Descripción {#descripci-n}
+## Intención
+
+La intención de esta técnica es aislar al equipo de las interrupciones, permitiéndoles desarrollar tranquilos.
+
+## Motivación
+
+En equipos pequeños que atienden múltiples proyectos en forma simultánea, los integrantes suelen sufrir interrupciones permanentemente. Se pierde el foco, existe un costo altísimo de cambio de contexto y puede traer desmotivación. En general estas interrupciones son por fallas en los sistemas, que requieren de atención inmediata por parte de alguno de los integrantes del equipo, o más de uno.
+
+## Descripción
 
 Se presenta típicamente en los casos de equipos pequeños que tienen una gran cantidad de proyectos, en todas las etapas del ciclo de vida. En estos casos suele suceder que las tareas de mantenimiento correctivo entran fácilmente en conflicto con los nuevos desarrollos, al punto que en algunos casos se vuelve muy difícil planificar.
 
@@ -33,7 +41,7 @@ Cuando esto pasa, la figura del Bombero puede transformarse en la de un “Guard
 *   Dedicar su tiempo a tareas preventivas o de saneamiento. Por ejemplo, implementar más tests, hacer refactoring de código con optimizaciones, etc. Muy probablemente, esta variante pueda aplicarse primero, a modo de transición entre el Bombero y la segunda variante del Guardia.
 *   Al Guardia se lo incluye dentro de la planificación. Realiza tareas de desarrollo al igual que el resto, con la salvedad de que es el interrumpible. Es para equipos bastante evolucionados, con software de alta calidad, donde la incidencia del mantenimiento es baja. De esta manera, el Guardia colabora con el desarrollo siendo el único que “padece” las interrupciones.
 
-### Conclusión {#conclusi-n}
+### Conclusión
 
 La técnica funciona muy bien. Los resultados se ven en el corto plazo. El equipo en general adquiere un estado más relajado de trabajo, sabiendo que puede poner todo su foco en el desarrollo que tiene entre manos, sin tener interrupciones constantes.
 
