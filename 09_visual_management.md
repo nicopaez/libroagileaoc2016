@@ -54,7 +54,7 @@ De esta manera podremos detectar fácilmente:
 
 ![kanban.jpg](assets/9.1.png)
 
-**_Figura 9.1**.Tablero Kanban_
+_**Figura 9.1**.Tablero Kanban_
 
 Una vez ya implementados, y luego de las primeras experiencias, se pueden aplicar estas sugerencias en el Tablero Kanban Avanzado:
 
@@ -88,7 +88,7 @@ _**Figura 9.3**. Criterio de Terminado_
 
 Cuando un equipo realiza programación de a pares, es una buena práctica llevar registro de cómo lo hacemos para no repetir u olvidar alguna combinación. Para eso, dibujamos una matriz de doble entrada donde en las filas y columnas ponemos los nombres de los programadores del equipo, con esto logramos una cuadrícula de pares. Cada vez que dos miembros del equipo programaron juntos, colocan una cruz en la celda que intersecta sus nombres en fila y columna. De esta manera sabremos quiénes restan aún trabajar juntos.
 
-![pair.jpg](assets/pairjpg.jpeg)
+![pair programming](assets/9.4.png)
 
 _**Figura 9.4**. Matriz de Pair Programming_
 
