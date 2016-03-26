@@ -167,15 +167,15 @@ De todos estos obstáculo, ellos han decidido atacar el obstáculo en naranja pr
 
 Con esto el equipo ha terminado la etapa de planificación de Improvement Kata y están listos para iniciar la etapa de ejecución, es decir, están listos para experimentar.
 
-#### Ciclos PDCA {#ciclos-pdca}
+#### Ciclos PDCA
 
 Luego de una conversación sobre cuál debería ser su primer experimento para buscar remover el obstáculo seleccionado, Lisbeth y el equipo determinan que probarán lo siguiente:
 
 *   Experimento: Hacer pairing con el tester antes de iniciar el desarrollo de una nueva funcionalidad.
 *   Resultado esperado: Que el tester tenga contexto del feature y pueda preparar con tiempo el set de pruebas. Con esto aumentar, en al menos 1 día, el tiempo de ejecución efectiva de pruebas, incluyendo las exploratorias.
 
-![ost Toyota Kata %2B Software.006.png](assets/ost_toyota_kata_2b_software006.png)
+![12.7](assets/12.7.png)
 
-**_Figura 12.7._** _Experimentos_
+_**Figura 12.7**. Experimentos_
 
 Finalmente ahora que entendemos cómo funciona Improvement Kata solo queda resaltar que dado que las katas están diseñadas para ayudar a la persona a recorrer un camino, es relevante entender que el uso del patrón tal como está presentado solo es el inicio. Así que hago la invitación a ¡comenzar a recorrerlo!
