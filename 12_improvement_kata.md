@@ -1,12 +1,18 @@
 # Improvement Kata
 
-Por Hiroshi Hiromoto, @hhiroshi## **Palabras clave** {#palabras-clave}
+Por Hiroshi Hiromoto, @hhiroshi
 
-mejora continua, generación de valor, auto-organización, kaizen, lean## **Intención** {#intenci-n}
+## **Palabras clave**
+
+mejora continua, generación de valor, auto-organización, kaizen, lean
+
+## **Intención**
 
 En muchas organizaciones algo recurrente es el deseo por ser mejores en algún aspecto, ya sea en reconocimiento, en ganancias, en la calidad de su producto o felicidad de sus colaboradores. Algo igual de recurrente, independientemente de sus desafíos, es que existe una gran dificultad para convertir esos deseos en mejoras concretas y una mayor dificultad aún, para sostenerlas en el tiempo.
 
-Improvement Kata es un patrón que nos ayuda a lograr convertir esos deseos en mejoras concretas.## **Motivación** {#motivaci-n}
+Improvement Kata es un patrón que nos ayuda a lograr convertir esos deseos en mejoras concretas.
+
+## **Motivación**
 
 Si bien Improvement Kata puede ser utilizado a diferentes niveles de una organización (C-Level, _middle management_, áreas, equipos, etc), este capítulo estará enfocado en su uso a nivel de equipo; en particular en equipos que se desenvuelven en el trabajo del conocimiento.
 
@@ -34,7 +40,9 @@ Mi hipótesis (que he ido validando con equipos a los que acompaño) es que hay 
 *   El segundo elemento es un mecanismo que nos ayude a recorrer el camino hacia ese desafío. Que evite que tengamos sesiones Whack-a-Mole (como el juego de arcade), en donde simplemente estemos reaccionando de forma instintiva ante lo que aparece al frente de nuestros ojos, sin tener en cuenta todo el panorama ni las causas raíces de los problemas.
 *   El tercer y último elemento es la experimentación sobre los planes de acción como indica Hiromoto [Hiromoto 2014], que permite hacer foco en los impactos que queremos generar y amplifique el aprendizaje cuando no logramos esos impactos con nuestras hipótesis.
 
-Si bien es cierto que he visto equipos aplicar estos tres elementos en una retrospectiva, me parece más natural utilizar un patrón que ya las contenga por diseño, y es ahí donde entra Improvement Kata.## **Descripción** {#descripci-n}
+Si bien es cierto que he visto equipos aplicar estos tres elementos en una retrospectiva, me parece más natural utilizar un patrón que ya las contenga por diseño, y es ahí donde entra Improvement Kata.
+
+## **Descripción**
 
 Antes de profundizar en Improvement Kata, quisiera comentar brevemente sobre el concepto de la _kata_, ya que da las bases para entender la importancia del patrón.
 
