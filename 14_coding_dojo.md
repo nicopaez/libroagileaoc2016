@@ -31,7 +31,7 @@ El Dojo, en Japón, es concretamente **el lugar físico** en el que se practica,
 
 ## Descripción
 
-### Roles {#roles}
+### Roles
 
 En un Coding Dojo la práctica suele hacerse en grupos. Específicamente suelen **ser grupos de 3 participantes**. Dentro de cada grupo hay roles y cada rol tiene sus responsabilidades. Los roles dentro de un grupo son Coder, Co-piloto y Asistente. El **Coder** también es llamado Driver, haciendo referencia al conductor de autos de Rally. Es quien puede tocar el teclado para escribir código fuente, con foco en lo que se está haciendo en ese mismo momento. El **Co-piloto** es llamado así haciendo referencia al acompañante del conductor de un auto de carrera; es quien se encarga de pensar estrategias de más mediano plazo, poniendo foco en los detalles a mejorar y en los escenarios que se irán resolviendo a continuación. El **Asistente** es como el Co-piloto, con la salvedad de que tiene una responsabilidad adicional, relacionada con un tablero del cual se habla más adelante en este mismo capítulo.
 
@@ -39,17 +39,17 @@ Estos tres roles suelen rotar a medida que se desarrolla la práctica, de forma 
 
 En todo Dojo, también participa un **Sensei**. Es quien tiene la responsabilidad de guiar a los participantes, llamados también aprendices, en el camino de la mejora. También suele conocer en detalle las técnicas que se practicarán en su Dojo. Debe tener la tolerancia y la capacidad didáctica para lograr compartir sus conocimientos y su experiencia con los aprendices. También es recomendable que tenga la habilidad de transmitir esos saberes a diferentes asistentes, por ejemplo, de distintos niveles de experiencia.
 
-### Etapas {#etapas}
+### Etapas
 
 Un Coding Dojo es un evento que puede realizarse de muy variadas formas. Personalmente he facilitado más de 100 dojos en estos últimos años a lo largo y ancho del continente americano y tengo una agenda tentativa bastante refinada que casi siempre consta de las etapas que describo a continuación.
 
-#### Invitación {#invitaci-n}
+#### Invitación
 
 Si querés que alguien participe de tu Coding Dojo, deberás -como mínimo- avisarle. Aprovechando el aviso, podés comentarle que se necesitarán **computadoras** (_notebooks_, _netbooks_, _ultrabooks_ o las máquinas que se puedan conseguir). ¿Cuántas se requieren? Aproximadamente una computadora por cada dos a cinco participantes. Será provechoso si ya llevan instalado y configurado, antes de comenzar el evento, algún entorno de desarrollo (del inglés, IDE: _Integrated Development Environment_) con algún **framework de pruebas unitarias**, como es el caso de JUnit para Java, por mencionar un ejemplo.
 
 En la invitación también es relevante que asistan con la **intención de aprender** cosas nuevas, dado que muchas personas participan de reuniones sólo para "difundir todo eso que ya saben a las personas ignorantes que las rodean" y se pierden grandes oportunidades de incorporar novedades a sus vidas. También les pido que traigan **buena onda**, pues es algo que nunca está de más y aporta grandes beneficios.
 
-#### Preparación {#preparaci-n}
+#### Preparación
 
 En todos los casos que facilité un Coding Dojo permití, exceptuando un solo evento en una pequeña ciudad de la selva en el interior de Perú, que cada participante tuviera su silla o banqueta para sentarse. En aquel evento académico fueron 60 alumnos y docentes al Coding Dojo en el que -directivos y quien escribe- calculamos que irían sólo 15\. A pesar de las condiciones, fue un hermoso Dojo en el que, algo incómodos, alcanzamos los objetivos.
 
@@ -64,11 +64,11 @@ Entonces, al preparar tu Coding Dojo deberás tener en cuenta lo siguiente:
 7.  Si bien se espera que los participantes sepan programar, hubo excepciones en las cuales participaron exitosamente abogados, vendedores y otros perfiles no técnicos.
 8.  Deberás tener una agenda para presentarles a los que asistan. Posiblemente se parezca a un listado con los títulos que vienen a continuación.
 
-#### Llegada y Presentación {#llegada-y-presentaci-n}
+#### Llegada y Presentación
 
 La llegada al Dojo puede marcar el estado de ánimo del encuentro. Un ambiente de recepción con **música y comida** predispone bien a muchas personas. Luego, llegado el momento de iniciar, se hace una ronda para dar lugar a una **breve presentación** de cada uno de los participantes y de sus intenciones en el Coding Dojo. La disposición en ronda es intencional. Su objetivo es la participación activa, la horizontalidad y la posibilidad de que todo el que hable pueda ser escuchado y mirado por los demás.
 
-#### Explicación de temas {#explicaci-n-de-temas}
+#### Explicación de temas
 
 Luego de la presentación, se da lugar a la **explicación** de varios conceptos, siempre y cuando esto se necesite. Es habitual describir **qué es** un Coding Dojo, cuáles son sus **objetivos**, cómo será el **mecanismo** de trabajo y cuáles son los **roles** que se practicarán. También se suele describir -en mayor o menor detalle- qué es **TDD** y técnicas de desarrollo ágil, como puede ser _Refactoring_. En general es útil ilustrar estos conceptos con **ejemplos** simples y concretos, llevados adelante en vivo, ahí mismo.
 
@@ -76,15 +76,15 @@ A partir de la explicación de TDD, suelo pedir a los participantes que esquemat
 
 Esta etapa de explicación podría durar entre 15 y 45 minutos, dependiendo del grado de conocimiento que existe al respecto entre los participantes. Y, dado que el objetivo del Dojo es aprender y mejorar mediante la práctica, es importante **que la explicación no dure demasiado**, aún si quedan dudas. Durante la práctica y en las conclusiones finales, muchas de esas dudas suelen resolverse.
 
-#### El desafío o la Kata {#el-desaf-o-o-la-kata}
+#### El desafío o la Kata
 
 El Coding Dojo fomenta la práctica a través de ejercicios concretos y finitos que representen un **desafío** y resulten **motivadores**. Estos desafíos no son problemas que los equipos deban resolver para sus trabajos. Al tratarse de un entrenamiento, se proponen desafíos que les sirvan a los participantes para **aprender y mejorar**. Los desafíos se llevan adelante mediante la realización de una actividad. Esa actividad suele ser una **Kata**, palabra que en japonés significa “forma”. Las _katas_ en las artes marciales son ejercicios que se realizan repetidamente, con el objetivo de incorporar movimientos de forma evolutiva. Así, en un combate, luego de muchas repeticiones, esos movimientos se podrán realizar naturalmente sin siquiera pensarlos.
 
 Por ejemplo, una _Kata_ que suelo proponer para aprender TDD es crear un componente de software que convierta números naturales a números romanos. Si el componente recibe un 1 deberá devolver “I”, si recibe un 2 deberá devolver “II”, si recibe 5 deberá devolver “V” y así para todos los números romanos hasta 3999\. El objetivo de la _Kata_ no es resolver el desafío por completo ni diseñar desde el inicio la solución final, sino practicar **paso a paso**, resolviendo cada una de las partes, tal como propone TDD.
 
-#### Desarrollo de la Kata {#desarrollo-de-la-kata}
+#### Desarrollo de la Kata
 
-Una vez que los conceptos han quedado claros y se ha elegido una _Kata_, **comienza la práctica**. Se invita a los participantes a que se organicen en **grupos** de 3 integrantes. Si son pares, que se armen todos los grupos de 3 que sean posibles y finalmente quedará algún grupo de 4 o de 2\. Todo el grupo trabajará en **una misma computadora**.
+Una vez que los conceptos han quedado claros y se ha elegido una _Kata_, **comienza la práctica**. Se invita a los participantes a que se organicen en **grupos** de 3 integrantes. Si son pares, que se armen todos los grupos de 3 que sean posibles y finalmente quedará algún grupo de 4 o de 2. Todo el grupo trabajará en **una misma computadora**.
 
 Se trabajará en ciclos cortos, también llamados **iteraciones**. Son períodos de tiempo que pueden ir entre 5 y 10 minutos. En los Dojos en los cuales hay mayoría de grupos con 3 integrantes, la duración que he encontrado más conveniente es de 7 minutos.
 
@@ -94,13 +94,13 @@ El Sensei deberá estar atento a las necesidades que los grupos puedan tener dur
 
 Una posibilidad opcional es fomentar, cada 3 o 4 iteraciones, la rotación de los grupos para que los participantes trabajen también con el código fuente que fue desarrollado por otros. El objetivo de esta otra rotación es generar mayor conciencia al respecto de la mantenibilidad, un atributo de calidad esencial en el desarrollo ágil de software. Este tipo de rotación implica que **todo el grupo** (o parte del mismo) se mueva a otra computadora y trabaje allí durante algunas iteraciones. Si alguien del grupo se queda trabajando en la computadora original, es deseable que comience la iteración como Co-piloto o Asistente, para permitir, a sus nuevos compañeros de grupo, que conozcan la solución que se ha estado desarrollando antes de su llegada.
 
-#### Conclusiones y cierre del Dojo {#conclusiones-y-cierre-del-dojo}
+#### Conclusiones y cierre del Dojo
 
 Un rato antes de terminar el encuentro, se suele realizar una **nueva ronda**. En esta ronda de cierre, se invita a los participantes a que **compartan** sus conclusiones, a partir de lo que han aprendido, de los desafíos que se han encontrado, de las emociones y sensaciones que han sentido. También se los invita a compartir cómo han pasado en general. Esto último apunta a que no solamente compartan cuestiones técnicas, sino que también puedan también conversar sobre lo que les haya resultado relevante a lo largo del Coding Dojo. No es raro escuchar **reflexiones** acerca del trabajo en equipo, la distribución de teclados ajenos, la tolerancia frente a diferentes formas de pensar soluciones para la _Kata_ y las inquietudes más profundas relacionadas con las técnicas que se han estado utilizando durante la práctica.
 
 Para poder mejorar entre un Coding Dojo y el siguiente, es habitual pedir retroalimentación a los participantes, para que compartan qué les pareció útil, qué les gustó, qué no les gustó y qué ideas tienen para mejorar de cara al siguiente encuentro.
 
-### Conclusión {#conclusi-n}
+### Conclusión
 
 Habiendo facilitado más de cien Coding Dojos en estos últimos cinco años, tanto en ámbitos comunitarios como académicos y corporativos, puedo asegurar que siempre ocurrió la magia: gente que aprendió cosas nuevas relevantes para su día a día y que pasó a ser más consciente. A partir de participar activamente de un Coding Dojo, miles de personas empezaron a ver cosas a su alrededor que antes no habían visto: Temas técnicos, metodológicos, humanos y tecnológicos.
 
