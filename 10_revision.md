@@ -21,8 +21,9 @@ Este patrón facilita:
 *   La comunicación entre las personas involucradas en la elaboración de documentos.
 *   Lla transmisión de conocimiento.
 *   La elaboración misma del documento.
-*   El mantenimiento de base de conocimientos documental.## Motivación {#motivaci-n}
+*   El mantenimiento de base de conocimientos documental.   
 
+## Motivación
 Este patrón resulta útil cuando un documento, público o privado, debe ser elaborado y se requiera _feedback_ para mejorar la calidad del contenido, la redacción y la presentación del mismo.
 
 También puede usarse cuando se desee evaluar y/o ampliar el conocimiento de una persona sobre un tema dado.
