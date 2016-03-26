@@ -15,6 +15,6 @@
 * [Improvement Kata](12_improvement_kata.md)
 * [Guardián de un equipo con múltiples asignaciones](13_guardian.md)
 * [Coding Dojo: técnica de entrenamiento](14_coding_dojo.md)
-* [utomatización a través de Git hooks](15_automatizacion.md)
+* [Automatización a través de Git hooks](15_automatizacion.md)
 * [Versionado de código, configuración y ambientes](16_versionado.md)
 * [Referencias](17_referencias.md)
