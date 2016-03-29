@@ -86,7 +86,8 @@ Esta práctica además de brindar mucha información útil previa a la reunión,
 Estos _pósters_ se pueden imprimir a color en el tamaño que nos parezca útil y pegarse en la sala de reuniones para que todos los vean.
 
 ![dosandonts](assets/7.3.png)
-**_Figura 7.3:** Posters de “DOs & DONTs” para una reunión de revisión de Sprint_
+
+_**Figura 7.3:** Posters de “DOs & DONTs” para una reunión de revisión de Sprint_
 
 **Facilitación Gráfica:** luego de empezar a usar pósters digitales nos fuimos dando cuenta que en muchas ocasiones realizar afiches gráficos o incluso facilitar las reuniones gráficamente “en vivo” tenía aún más impacto y captaba mucho más la atención de la audiencia. Con lo cual fuimos incorporando esta técnica para transmitir mensajes importantes o resaltar temas que queríamos que los asistentes se lleven incorporados.
 
