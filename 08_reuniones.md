@@ -87,7 +87,7 @@ Estos _pósters_ se pueden imprimir a color en el tamaño que nos parezca útil 
 
 ![dosandonts](assets/7.3.png)
 
-_**Figura 7.3:** Posters de “DOs & DONTs” para una reunión de revisión de Sprint_
+_**Figura 7.3.** Posters de “DOs & DONTs” para una reunión de revisión de Sprint_
 
 **Facilitación Gráfica:** luego de empezar a usar pósters digitales nos fuimos dando cuenta que en muchas ocasiones realizar afiches gráficos o incluso facilitar las reuniones gráficamente “en vivo” tenía aún más impacto y captaba mucho más la atención de la audiencia. Con lo cual fuimos incorporando esta técnica para transmitir mensajes importantes o resaltar temas que queríamos que los asistentes se lleven incorporados.
 
@@ -95,7 +95,7 @@ En la Figura 7.4 podemos ver un ejemplo de afiche utilizado para describir a tra
 
 ![scrumposter](assets/7.4.png)
 
-**_Figura 7.4\._ **_Afiche descriptivo del proceso de Scrum_
+_**Figura 7.4.** Afiche descriptivo del proceso de Scrum_
 
 **Mini _kick-off_:** en muchas actividades que involucran varias reuniones o tiempos más extensos, como puede ser la Sprint 0 o _Inception_ de un proyecto ágil, optamos por realizar una reunión de kick-off de la actividad, en la cual no se habla de los requerimientos ni nada especifico del proyecto, sino que se describe que es lo que va a suceder en dicha fase o actividad en las próximas reuniones, semanas o incluso meses. Esto sirve para bajar la ansiedad de los asistentes, alinear expectativas, pulir la audiencia que va a participar y alinear la visión de lo que viene, como así también para que los asistentes entiendan el porqué de lo que estaremos haciendo, la importancia de hacerlo, los beneficios aparejados, las desventajas de no hacerlo y que sientan que las próximas reuniones serán una inversión y no un pérdida de tiempo.
 
