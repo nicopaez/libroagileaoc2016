@@ -1,8 +1,8 @@
 # Introducción a Visual Management
 Por Soledad Pinter, @solepinter
 
-## Etiquetas
-Visual management, kanban, tableros
+## Palabras clave
+Visual management, kanban, tableros.
 
 ## Intención
 ¿Cómo visualizar el estado de las tareas en curso? ¿Qué información es importante compartir con el equipo? ¿Cómo la compartimos?
