@@ -1,6 +1,8 @@
 # Técnicas de OnBoarding para la gestión de conocimiento
 
-Por Vanesa Savino, @VaneSavino## Palabras claves
+Por Vanesa Savino, @VaneSavino
+
+## Palabras claves
 
 Transferencia de conocimiento, Coaching, Roles variables.
 
@@ -127,9 +129,9 @@ La votación se realiza con la regla del pulgar: pulgar para arriba para indicar
 
 Luego de la votación comienza la exposición del siguiente equipo hasta terminar, al finalizar se trabaja con la solución más votada.
 
-Si el equipo es pequeño (3 o 4 personas) puede trabajarse más informalmente, reuniéndose frente a una pizarra y diagramando una solución. Aquellos con más conocimiento pueden proponer una solución tentativa y los demás pueden dar su feedback para ver en que se puede mejorar.
+Si el equipo es pequeño (3 o 4 personas) puede trabajarse más informalmente, reuniéndose frente a una pizarra y diagramando una solución. Aquellos con más conocimiento pueden proponer una solución tentativa y los demás pueden dar su _feedback_ para ver en que se puede mejorar.
 
-Es importante a tener en cuenta el feedback en ambos métodos, pues a veces la solución más brillante la aporta el miembro menos pensado.
+Es importante a tener en cuenta el _feedback_ en ambos métodos, pues a veces la solución más brillante la aporta el miembro menos pensado.
 
 Este métodos propician la participación de todos en la construcción de la solución, pero como la experiencia de cada miembro es diferente se pueden complementar con “_coaching_” o “más que programación en parejas” dependiendo de si es una solución más técnica o de negocio.
 
