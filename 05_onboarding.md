@@ -38,7 +38,7 @@ A continuación se muestra un listado con la organización de los mismos:
     *   Clases particulares.
     *   Tarde de películas.
 *   Diseño colaborativo.
-    *   Adaptación de Kata arquitectura.
+    *   Adaptación de Kata de arquitectura.
     *   Reunión de diseño más informal.
 
 ### Regla de la mano izquierda
