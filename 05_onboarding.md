@@ -115,9 +115,9 @@ Como ya se sabe la visión de grupo en sinergía supera la suma de la visión de
 
 En esta instancia se propone utilizar diseño colaborativo para llegar a la solución óptima de un problema.
 
-Dependiendo de la estructura y la cantidad de miembros del equipo se pueden hacer reuniones más informales o adaptaciones de katas de arquitecturas.  
+Dependiendo de la estructura y la cantidad de miembros del equipo se pueden hacer reuniones más informales o adaptaciones de katas de arquitecturas.
 
-El término kata proviene del karate y consiste en una serie de ejercicios establecidos que se realizan sólo.  Este término se aplicó al diseño de código cuando Dave Thomas creó las “Code Kata”.  
+El término kata proviene del karate y consiste en una serie de ejercicios establecidos que se realizan sólo.  Este término se aplicó al diseño de código cuando Dave Thomas creó las “Code Kata”.
 
 Las katas de arquitecturas se realizan en grupos, tienen reglas y roles definidos. Se acuerda un tiempo de duración para todo el ejercicio, los miembros se dividen en grupos de desarrolladores y se designa un moderador, responsable de responder todas las dudas de los equipos. Si el moderador es el líder del equipo, también se encarga de guardar las buenas prácticas de programación.
 
@@ -133,7 +133,8 @@ Si el equipo es pequeño (3 o 4 personas) puede trabajarse más informalmente, r
 
 Es importante a tener en cuenta el _feedback_ en ambos métodos, pues a veces la solución más brillante la aporta el miembro menos pensado.
 
-Este métodos propician la participación de todos en la construcción de la solución, pero como la experiencia de cada miembro es diferente se pueden complementar con “_coaching_” o “más que programación en parejas” dependiendo de si es una solución más técnica o de negocio.
+Estos métodos propician la participación de todos en la construcción de la solución, pero como la experiencia de cada miembro es diferente se pueden complementar con “_coaching_” o “más que programación en parejas” dependiendo de si es una solución más técnica o de negocio.
+
 
 Los métodos expuestos tienen como eje principal compartir conocimientos, algunos han surgido por la necesidad de resolver un problema, otros han sido adaptados de la bibliografía o tomados literalmente. Estos métodos pueden aplicarse en forma iterativa e incremental; lo fundamental es lograr la comodidad del equipo y una transferencia de conocimiento efectiva.
 
