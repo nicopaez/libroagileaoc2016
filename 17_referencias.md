@@ -1,6 +1,6 @@
 # Referencias
 
-[Ágiles 2015] Agiles 2015, VIII Jornadas Latinoamericanas de Metodologias Agiles, Montevideo, Uruguay - agiles2015.agiles.org
+[Ágiles 2015] Agiles 2015, VIII Jornadas Latinoamericanas de Metodologías Ágiles, Montevideo, Uruguay - agiles2015.agiles.org
 
 [Adzic 2014a] Adzic, Gojko. (2014). User stories should be about behaviour changes. gojko.net Recuperado de: https://gojko.net/2014/02/12/user-stories-should-be-about-behaviour-changes/
 
@@ -34,9 +34,9 @@
 
 [Larsen y Nies 2011] Larsen, Diana y Nies, Ainsley, Liftoff: launching agile projects and teams, Onyx Neon Press, 2011.
 
-[Libro 2015] Disponible en linea en: https://www.gitbook.com/book/nicopaez/libroagileaoc2015/
+[Libro 2015] Disponible en línea en: https://www.gitbook.com/book/nicopaez/libroagileaoc2015/
 
-[Manifiesto ágil] Disponible en linea en: http://www.agilemanifesto.org/iso/es/, como estaba en Febrero de 2015
+[Manifiesto ágil] Disponible en línea en: http://www.agilemanifesto.org/iso/es/, como estaba en Febrero de 2015
 
 [Cohn 2015] Product Backlog Refinement (Grooming), disponible en línea: https://www.mountaingoatsoftware.com/blog/product-backlog-refinement-grooming
 
@@ -50,7 +50,7 @@
 
 [Rasmusson 2010b] Rasmusson, Jonathan, The Agile Inception Deck, disponible en línea: https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/, como estaba en Febrero de 2016.
 
-[Román 2006] Román José, Los 3 monos misticos, 2006 - http://www.emezeta.com/articulos/los-tres-monos-misticos
+[Román 2006] Román José, Los 3 monos místicos, 2006 - http://www.emezeta.com/articulos/los-tres-monos-misticos
 
 [Steinberg-Palmer 2003] Steinberg, Daniel H. & Palmer, Daniel W. (2003). Extreme Software Engineering A Hands-On Approach. Upper Saddle River, NJ, EE. UU. : Prentice-Hall, Inc.
 
