@@ -35,7 +35,7 @@ La actividad se divide en cuatro fases:
     *   Se puede enviar una cita electrónicamente o directamente se solicita cara a cara. Se debe privilegiar e incentivar la solicitud verbal cara a cara para favorecer los lazos humanos.
 *   Ejecutar la SEF: es la reunión en donde daremos el feedback.
     *   Los primeros minutos deben destinarse a contextualizar el tipo de feedback.
-    *   Mostrar las notas autoadhesivas a conversar
+    *   Mostrar las notas autoadhesivas a conversar.
     *   Hablar siempre calmado y concentrado.
     *   Exponer los hechos e interpretaciones para demostrar que te importa el hecho a discutir. Hablar desde las emociones.
     *   Pedir que és lo que se quiere.
