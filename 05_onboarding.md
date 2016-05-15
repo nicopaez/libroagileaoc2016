@@ -38,10 +38,10 @@ A continuación se muestra un listado con la organización de los mismos:
     *   Clases particulares.
     *   Tarde de películas.
 *   Diseño colaborativo.
-    *   Adaptación de Kata arquitectura.
+    *   Adaptación de Kata de arquitectura.
     *   Reunión de diseño más informal.
 
-### Regla de la mano izquierda {#regla-de-la-mano-izquierda}
+### Regla de la mano izquierda
 
 Este método previene que el experto sea consultado todo el tiempo, escalando las dudas por intermediarios, hasta agotar las instancias y consultarle directamente. Además contribuye a que el conocimiento fluya a través del grupo y no esté centralizado en el experto.
 
