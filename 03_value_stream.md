@@ -10,7 +10,7 @@ Lean, procesos, optimización, visualización, eficiencia
 
 Si un equipo tiene un objetivo claro y todos sus integrantes quieren alcanzarlo, es probable que quieran **optimizar** su forma de trabajar para lograr ese cometido. Si el objetivo está relacionado con la realización de tareas o actividades que se repiten, estarán frente a uno o más **procesos**. En ese contexto de optimización de procesos, existe una técnica que permite visualizar, analizar y trabajar en su optimización. Su nombre original es en inglés: **_Value Stream Mapping_** [Martin 2013]. Se trata de una técnica que se suele llevar adelante en reuniones grupales (aunque también podría ser realizada individualmente) en las que se trabaja con elementos y características del **proceso que se desea optimizar**.
 
-Esta técnica es una forma de bajar a tierra los principios Lean, oriundos del mundo de la manufactura y muy utilizados también más tarde en industrias de diversa índole. En Lean, todo el esfuerzo se dedica a mejorar los procesos de forma tal que se logre minimizar el tiempo entre que un cliente realiza una solicitud y esa solicitud se transforma en el producto o servicio requerido. Suele utilizarse tanto en procesos producción como en servicios.
+Esta técnica es una forma de bajar a tierra los principios Lean, oriundos del mundo de la manufactura y muy utilizados también más tarde en industrias de diversa índole. En Lean, todo el esfuerzo se dedica a mejorar los procesos de forma tal que se logre minimizar el tiempo entre que un cliente realiza una solicitud y esa solicitud se transforma en el producto o servicio requerido. Suele utilizarse tanto en procesos de producción como en servicios.
 
 Un **ejemplo** que puede ilustrar los conceptos que se mencionan, es el caso de un **restaurante** y una familia que decide comer allí el viernes por la noche.
 
@@ -46,7 +46,7 @@ A continuación se detalla cada uno de los pasos.
 
 #### Elección del Proceso
 
-Saber qué proceso queremos mejorar es un buena forma de comenzar. Se dejarán de lado todos los demás procesos en los cuales el equipo participa. Tener foco posibilita un mejor análisis que potencie el flujo de valor (también conocido como cadena de valor o cadena crítica).
+Saber qué proceso queremos mejorar es una buena forma de comenzar. Se dejarán de lado todos los demás procesos en los cuales el equipo participa. Tener foco posibilita un mejor análisis que potencie el flujo de valor (también conocido como cadena de valor o cadena crítica).
 
 En el caso del restaurante, se podrían elegir distintos procesos. Se tomará uno en particular: recibir y dar de comer a una familia, un viernes por la noche. Se dejarán de lado en este análisis la limpieza nocturna del salón luego de cerrar el local, la preparación del salón para abrir el local, la compra de insumos para la cocina, la difusión y el _marketing_ que se hace en redes sociales y otros procesos que hacen posible que el restaurante opere normalmente. El foco de la sesión de trabajo será la cena de la familia.
 
@@ -54,7 +54,7 @@ En el caso del restaurante, se podrían elegir distintos procesos. Se tomará un
 
 Dado que todo proceso tiene su contexto, es necesario elegir puntos desde y hasta los cuales se realiza el análisis.
 
-En el ejemplo, se tomará como punto de inicio el momento en el que la familia entra a local y como punto de fin el momento en el que sale del mismo. Queda fuera del análisis la forma en la cual la familia se enteró de la existencia del restaurante, el trayecto desde la casa hacia el restaurante y viceversa.
+En el ejemplo, se tomará como punto de inicio el momento en el que la familia entra al local y como punto de fin el momento en el que sale del mismo. Queda fuera del análisis la forma en la cual la familia se enteró de la existencia del restaurante, el trayecto desde la casa hacia el restaurante y viceversa.
 
 #### Identificación de Actividades
 
@@ -86,7 +86,7 @@ También se miden tiempos entre actividades. El tiempo en espera -o _Idle time_-
 
 En el ejemplo: Esperar una mesa disponible (5 minutos), Esperar al camarero para pedir la comida (5 minutos), Esperar a que los cocineros comiencen a procesar el pedido (1 minuto), Esperar al camarero para que lleve la comida a la mesa (3 minutos), Esperar al camarero para pedirle la cuenta (5 minutos), Esperar el vuelto (3 minutos).
 
-#### Cálculo del _Lead Time_ 
+#### Cálculo del _Lead Time_
 
 El **_Lead Time_** o _Throughput time_, es el **tiempo total** transcurrido entre el momento en que se recibe una solicitud de trabajo hasta que el cliente está satisfecho.
 
@@ -116,11 +116,11 @@ En esta etapa se rediseña el modelo del flujo de valor a partir de un experimen
 
 Lo primero que se hace es identificar los tipos de desperdicio presentes en el flujo. También son llamados restricciones o cuellos de botella. Por ejemplo: esperas, retrabajos, transportes innecesarios o trabajo en progreso y no terminado.
 
-Una vez identificados todas las restricciones críticas, se priorizan y se diseña una mejora concreta alrededor de las más crítica. Algunos ejemplos de mejoras concretas son: agrupar tareas, unificar actividades, agregar recursos o capacitar personas.
+Una vez identificados todas las restricciones críticas, se priorizan y se diseña una mejora concreta alrededor de las más críticas. Algunos ejemplos de mejoras concretas son: agrupar tareas, unificar actividades, agregar recursos o capacitar personas.
 
 Siempre se recomienda utilizar la ley de Pareto: con pocos cambios se pueden lograr grandes impactos para disminuir el _Lead time_ y/o aumentar la eficiencia.
 
-En el ejemplo del restaurante, se puede pensar en varias optimizaciones posibles analizando cuál es más factible y conveniente teniendo el cuenta las restricciones económicas u otras. Una optimización en particular puede ser mejorar los tiempos de espera relacionados con el pago y el vuelto. Para esto, los camareros llevarán consigo los instrumentos necesarios para cobrar (POS, del inglés _Point of Sales_) y el dinero suficiente para dar el vuelto en el momento. Se espera que ese tiempo de espera del vuelto desaparezca y que el pago tarde solo 5 minutos. Ahora el _Lead Time_ sería 87.
+En el ejemplo del restaurante, se puede pensar en varias optimizaciones posibles analizando cuál es más factible y conveniente teniendo en cuenta las restricciones económicas u otras. Una optimización en particular puede ser mejorar los tiempos de espera relacionados con el pago y el vuelto. Para esto, los camareros llevarán consigo los instrumentos necesarios para cobrar (POS, del inglés _Point of Sales_) y el dinero suficiente para dar el vuelto en el momento. Se espera que ese tiempo de espera del vuelto desaparezca y que el pago tarde solo 5 minutos. Ahora el _Lead Time_ sería 87.
 
 #### Cálculo de nueva eficiencia esperada
 
