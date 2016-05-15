@@ -62,4 +62,4 @@ Te invito entonces a que selecciones alguna técnica que tal vez consideres ya a
 
 Finalmente quisiera dejar una cita tomada de Shunryu Suzuki [Suzuki 1987], la cual he adecuado para este contexto de aprender:
 
-“Nuestra comprensión de una técnica, no es meramente una comprensión intelectual. La verdadera comprensión es la práctica misma”
+“Nuestra comprensión de una técnica, no es meramente una comprensión intelectual. La verdadera comprensión es la práctica misma”.
