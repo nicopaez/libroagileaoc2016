@@ -59,10 +59,10 @@ _**Figura 9.1**.Tablero Kanban_
 Una vez ya implementados, y luego de las primeras experiencias, se pueden aplicar estas sugerencias en el Tablero Kanban Avanzado:
 
 *   Tareas de un dia.
-*   Carril de emergencia: la primera fila del tablero la usamos para colocar aquellas tareas que entrar de emergencia al backlog, por ejemplo los errores en producción.
+*   Carril de emergencia: la primera fila del tablero la usamos para colocar aquellas tareas que entran de emergencia al backlog, por ejemplo los errores en producción.
 *   Tags con nombres: utilizar notas autoadhesivas o algún identificador más pequeño para señalar los nombres de los responsables en la nota autoadhesiva de cada tarea.
 *   Fotos con los miembros del equipo.
-*   Métricas como el Leap Time y el Cycle Time permiten conocer, ajustar y mejorar los tiempos de desarrollo y entrega de una tarea, asi como tambien ayudan a identificar los cuellos de botella en el proceso.
+*   Métricas como el Leap Time y el Cycle Time permiten conocer, ajustar y mejorar los tiempos de desarrollo y entrega de una tarea, asi como también ayudan a identificar los cuellos de botella en el proceso.
 
 ### Calendario del Equipo
 
@@ -112,7 +112,7 @@ _**Figura 9.5**. Sprint Information_
 
 ### Acuerdos de Trabajo
 
-Cada equipo tiene su dinámica de trabajo. Siempre es bueno al comenzar, establecer entre todos los miembros del equipo, aquellas reglas o acuerdos que pueden ayudar a la convivencia y el desempeño del equipo. Por ejemplo: horario laboral, hora de la Daily meeting , cómo rotan la facilitación de las reuniones, a qué temperatura es aceptable el aire acondicionado y todas aquellas cosas que entre todos accedan a incorporar como "Acuerdo de trabajo".
+Cada equipo tiene su dinámica de trabajo. Siempre es bueno al comenzar, establecer entre todos los miembros del equipo, aquellas reglas o acuerdos que pueden ayudar a la convivencia y el desempeño del equipo. Por ejemplo: horario laboral, hora de la Daily meeting, cómo rotan la facilitación de las reuniones, a qué temperatura es aceptable el aire acondicionado y todas aquellas cosas que entre todos accedan a incorporar como "Acuerdo de trabajo".
 
 ![Acuerdos.jpg](assets/9.6.png)
 

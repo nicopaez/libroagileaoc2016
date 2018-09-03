@@ -1,3 +1,6 @@
-# My Awesome Book
+# Libro de Herramientas Ágiles
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Este libro reúne un conjunto de técnicas escritas por participantes del
+AgileOpenCamp 2016.
+
+El libro se encuentra publicado en la plataforma GitBook en [http://nicopaez.gitbooks.io/libroagileaoc2016/](http://nicopaez.gitbooks.io/libroagileaoc2016/)

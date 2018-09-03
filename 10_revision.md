@@ -19,9 +19,9 @@ Este patrón facilita:
 
 *   El aprendizaje y maduración del tema a tratar.
 *   La comunicación entre las personas involucradas en la elaboración de documentos.
-*   Lla transmisión de conocimiento.
+*   La transmisión de conocimiento.
 *   La elaboración misma del documento.
-*   El mantenimiento de base de conocimientos documental.   
+*   El mantenimiento de base de conocimientos documental.
 
 ## Motivación
 Este patrón resulta útil cuando un documento, público o privado, debe ser elaborado y se requiera _feedback_ para mejorar la calidad del contenido, la redacción y la presentación del mismo.
@@ -61,7 +61,7 @@ El _editor_ es quien se encarga de darle formato y revisar ortográfica y gramat
 
 ### Tareas, ¿Quién se ocupa de qué?
 
-El autor y el revisor evalúan básicamente _contenido_, definen el _estilo_ de la escritura y parcialmente formato a sólo efecto de no agregar confusión en el documento por ejemplo identificando jerarquías de títulos o definiendo colores que no pueden ser de otro modo. Además, el editor debe saber exactamente a qué le está dando formato, por ende el autor debe entregar un documento con ideas claras al editor.
+El autor y el revisor evalúan básicamente _contenido_, definen el _estilo_ de la escritura y parcialmente el formato a sólo efecto de no agregar confusión en el documento por ejemplo identificando jerarquías de títulos o definiendo colores que no pueden ser de otro modo. Además, el editor debe saber exactamente a qué le está dando formato, por ende el autor debe entregar un documento con ideas claras al editor.
 
 El rol del editor es muy distinto al del revisor. Él estará concentrado en los aspectos gramaticales, formato y estilo visual del documento. Será el encargado de dejar la versión final publicable. Si es un experto en el idioma de redacción del documento, puede aportar en mejoras del estilo de escritura.
 

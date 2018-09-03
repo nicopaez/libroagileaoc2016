@@ -1,4 +1,4 @@
-# Integración de prácticas para lanzamiento de proyectos de software 
+# Integración de prácticas para lanzamiento de proyectos de software
 Por Pablo Lischinsky, @pablolis
 
 ## Palabras clave
@@ -7,7 +7,7 @@ Acta de proyecto, visión del producto, empoderamiento de equipos, alineamiento,
 
 ## Intención
 
-Para dar inicio a un proyecto de desarrollo de software (o relanzar uno en marcha), existen varias técnicas que aportan valor. Sin embargo, es conveniente combinarlas para tener una mejor visión compartida del proyecto y preparar adecuadamente al **equipo de _delivery_** (más que desarrollo) y demás participantes e interesados en el desafío a enfrentar
+Para dar inicio a un proyecto de desarrollo de software (o relanzar uno en marcha), existen varias técnicas que aportan valor. Sin embargo, es conveniente combinarlas para tener una mejor visión compartida del proyecto y preparar adecuadamente al **equipo de _delivery_** (más que desarrollo) y demás participantes e interesados en el desafío a enfrentar.
 
 ## Motivación
 
@@ -81,7 +81,7 @@ Algunos logros con estas actividades de lanzamiento de proyectos son:
 *   Se estudian las dependencias con otros proyectos.
 *   Se analizan y priorizan los riesgos y se establece una estrategia para irlas despejando en el tiempo.
 *   Se crea documentación mínima, preferiblemente usando técnicas de facilitación gráfica, que estará visible para todos los interesados y que servirá para el proceso de inserción de nuevos miembros al equipo (_onboarding_).
-*   Se nivelan las destrezas de los miembros del equipo en aspectos de metodológicos tales como principios y valores del agilismo y del proceso a utilizar, por ejemplo Scrum.
+*   Se nivelan las destrezas de los miembros del equipo en aspectos metodológicos tales como principios y valores del agilismo y del proceso a utilizar, por ejemplo Scrum.
 *   Se definen y programan otros talleres para nivelar o desarrollar otras competencias técnicas.
 *   Se comienza a **crear un ambiente de alta colaboración, transparencia, compromiso y seguridad.**
 *   **¡Celebrar** juntos el trabajo realizado!
@@ -92,6 +92,6 @@ Algunas de las actividades propuestas pueden solaparse y en una primera impresi�
 
 Las herramientas a utilizar dependen también del contexto de negocio y de la etapa en que se encuentra el producto dentro de su ciclo de vida.
 
-Estas actividades de lanzamiento aportan valor también para aquellos proyectos en ejecución: en contextos complejos e inciertos (como lo son casi todos los proyectos de software) de vez en cuando es necesario hacer un alto para **reflexionar** y responderse: ¿quiénes somos? ¿qué hemos hecho?, ¿dónde estamos hoy?, ¿hacia dónde vamos?, ¿cuáles son los desafíos, restricciones, riesgos y oportunidades?
+Estas actividades de lanzamiento aportan valor también para aquellos proyectos en ejecución: en contextos complejos e inciertos (como lo son casi todos los proyectos de software) de vez en cuando es necesario hacer un alto para **reflexionar** y responderse: ¿quiénes somos?, ¿qué hemos hecho?, ¿dónde estamos hoy?, ¿hacia dónde vamos?, ¿cuáles son los desafíos, restricciones, riesgos y oportunidades?
 
 [Larsen 2013] nos provee una visión más amplia y de cierta forma integradora que la que provee cada herramienta por separado, centrada en el equipo de _delivery_ y demás involucrados y que nos ayuda a responder, de forma activa, estas interrogantes.
